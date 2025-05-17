@@ -1,0 +1,101 @@
+issue_id,title,status,priority,assignee,created_at,resolved_at,description
+AA0001,Issue 1,In Progress,Medium,Eve,2025-01-04,,Slow page load times
+BA0002,Issue 2,In Progress,High,Alice,2025-03-02,,Need to update the FAQ section
+CA0003,Issue 3,In Progress,High,Charlie,2025-03-24,,UI bug on the login page
+DA0004,Issue 4,Open,High,David,2025-01-12,,Missing translation in the app
+EA0005,Issue 5,Open,Low,Eve,2025-03-08,,Bug with recurring billing system
+FA0006,Issue 6,In Progress,High,Eve,2025-02-23,,Need to update the FAQ section
+GA0007,Issue 7,Closed,Medium,Bob,2025-03-14,2025-03-23,Slow page load times
+HA0008,Issue 8,Open,Low,David,2025-01-10,,Crash on specific mobile devices
+IA0009,Issue 9,Closed,High,Alice,2025-01-30,2025-02-09,Feature request to integrate with social media
+JA0010,Issue 10,Closed,High,Charlie,2025-03-23,2025-03-24,Authentication error
+KA0011,Issue 11,Open,Low,Eve,2025-02-02,,UI issue with the sidebar layout
+LA0012,Issue 12,Open,High,Bob,2025-03-18,,Performance issue with the database
+MA0013,Issue 13,Open,Low,Eve,2025-02-10,,User unable to upload files
+NA0014,Issue 14,In Progress,High,Bob,2025-02-11,,UI bug on the login page
+OA0015,Issue 15,In Progress,High,David,2025-02-02,,User permissions issue
+PA0016,Issue 16,Closed,High,Eve,2025-03-14,2025-03-24,Bug in user profile update
+QA0017,Issue 17,Closed,High,Bob,2025-04-18,2025-04-22,Feature request for dark mode
+RA0018,Issue 18,Closed,High,Bob,2025-03-20,2025-03-30,Bug with recurring billing system
+SA0019,Issue 19,Closed,Low,Bob,2025-05-09,2025-05-17,Performance issue with the database
+TA0020,Issue 20,Open,High,Bob,2025-04-30,,Feature request to integrate with social media
+UA0021,Issue 21,Open,High,Eve,2025-02-15,,UI issue with the sidebar layout
+VA0022,Issue 22,Closed,Medium,Charlie,2025-04-18,2025-04-28,User permissions issue
+WA0023,Issue 23,Closed,Medium,David,2025-02-08,2025-02-09,Feature request for dark mode
+XA0024,Issue 24,In Progress,Low,David,2025-03-06,,Bug in the search functionality
+YA0025,Issue 25,Closed,Medium,Alice,2025-01-17,2025-01-20,Crash on specific mobile devices
+ZA0026,Issue 26,Open,Medium,Eve,2025-03-23,,Missing data in the analytics report
+AB0027,Issue 27,Open,Low,Bob,2025-04-30,,API endpoint failure
+BB0028,Issue 28,In Progress,Medium,Alice,2025-02-03,,Performance issue with the database
+CB0029,Issue 29,Open,Medium,Charlie,2025-01-05,,Performance issue with the database
+DB0030,Issue 30,Closed,Low,Eve,2025-01-26,2025-01-28,UI issue with the sidebar layout
+EB0031,Issue 31,Open,High,David,2025-01-06,,Bug in the search functionality
+FB0032,Issue 32,In Progress,Low,Charlie,2025-01-20,,UI bug on the login page
+GB0033,Issue 33,Closed,Medium,Charlie,2025-03-24,2025-04-03,UI bug on the login page
+HB0034,Issue 34,Closed,High,David,2025-04-15,2025-04-18,Bug in the search functionality
+IB0035,Issue 35,In Progress,Medium,Eve,2025-01-01,,Bug in user registration flow
+JB0036,Issue 36,Closed,Medium,Alice,2025-05-06,2025-05-09,API performance improvement needed
+KB0037,Issue 37,Closed,Medium,Bob,2025-02-22,2025-02-23,Need better error handling in the system
+LB0038,Issue 38,Open,Low,Alice,2025-04-21,,UI bug on the login page
+MB0039,Issue 39,In Progress,Low,Eve,2025-02-26,,Bug in the search functionality
+NB0040,Issue 40,Closed,High,Alice,2025-02-13,2025-02-18,Bug in the search functionality
+OB0041,Issue 41,Open,Medium,Alice,2025-01-02,,Feature request for new dashboard
+PB0042,Issue 42,Open,High,David,2025-01-26,,Feature request for dark mode
+QB0043,Issue 43,In Progress,High,Bob,2025-03-16,,Bug in user registration flow
+RB0044,Issue 44,Closed,High,Charlie,2025-04-18,2025-04-19,Performance issue with the database
+SB0045,Issue 45,Open,Medium,David,2025-03-29,,API performance improvement needed
+TB0046,Issue 46,Open,Medium,Charlie,2025-02-07,,Feature request to integrate with social media
+UB0047,Issue 47,In Progress,High,Charlie,2025-01-14,,Feature request to integrate with social media
+VB0048,Issue 48,Closed,High,Eve,2025-02-16,2025-02-25,Design issue with product images
+WB0049,Issue 49,Open,Low,Charlie,2025-04-09,,Bug with recurring billing system
+XB0050,Issue 50,In Progress,Medium,David,2025-02-01,,Crash on specific mobile devices
+YB0051,Issue 51,Open,Low,Eve,2025-03-14,,Feature request for dark mode
+ZB0052,Issue 52,Open,Medium,Bob,2025-05-01,,UI issue with the sidebar layout
+AC0053,Issue 53,Closed,Medium,David,2025-03-21,2025-03-23,Design issue with product images
+BC0054,Issue 54,In Progress,High,Alice,2025-03-10,,Crash on specific mobile devices
+CC0055,Issue 55,Closed,Medium,Alice,2025-02-24,2025-02-28,User unable to upload files
+DC0056,Issue 56,Open,Medium,Eve,2025-01-15,,Bug with recurring billing system
+EC0057,Issue 57,Closed,Low,Eve,2025-03-14,2025-03-18,New feature request for advanced filters
+FC0058,Issue 58,Closed,Low,David,2025-04-26,2025-05-06,App freezing during navigation
+GC0059,Issue 59,Open,Medium,Bob,2025-01-05,,Design issue with product images
+HC0060,Issue 60,Open,Low,Charlie,2025-01-29,,API endpoint failure
+IC0061,Issue 61,In Progress,Medium,Charlie,2025-01-13,,Missing translation in the app
+JC0062,Issue 62,Open,Low,Charlie,2025-03-04,,Missing translation in the app
+KC0063,Issue 63,Closed,Low,Eve,2025-04-29,2025-05-06,Bug with recurring billing system
+LC0064,Issue 64,In Progress,Low,Charlie,2025-02-27,,Need to update the FAQ section
+MC0065,Issue 65,Open,High,David,2025-04-14,,Design issue with product images
+NC0066,Issue 66,In Progress,High,Charlie,2025-04-09,,API performance improvement needed
+OC0067,Issue 67,Closed,Medium,Bob,2025-03-21,2025-03-28,Feature request to integrate with social media
+PC0068,Issue 68,In Progress,Medium,Eve,2025-01-11,,Crash on specific mobile devices
+QC0069,Issue 69,Open,Low,David,2025-04-17,,Need better error handling in the system
+RC0070,Issue 70,In Progress,Low,Charlie,2025-03-01,,Need better error handling in the system
+SC0071,Issue 71,Open,High,David,2025-01-06,,Bug in user registration flow
+TC0072,Issue 72,Closed,Medium,David,2025-02-08,2025-02-10,Missing data in the analytics report
+UC0073,Issue 73,In Progress,High,Bob,2025-03-07,,Performance issue with the database
+VC0074,Issue 74,Open,Medium,Charlie,2025-03-06,,User permissions issue
+WC0075,Issue 75,In Progress,High,Bob,2025-03-09,,Incorrect data displayed in reports
+XC0076,Issue 76,In Progress,Medium,Charlie,2025-04-03,,Bug with recurring billing system
+YC0077,Issue 77,Closed,High,David,2025-04-23,2025-04-27,Design issue with product images
+ZC0078,Issue 78,Open,High,Bob,2025-03-15,,Authentication error
+AD0079,Issue 79,Open,Medium,Eve,2025-05-02,,UI issue with the sidebar layout
+BD0080,Issue 80,Open,High,Bob,2025-04-22,,Slow page load times
+CD0081,Issue 81,In Progress,Medium,Eve,2025-01-20,,Bug in the search functionality
+DD0082,Issue 82,Closed,Medium,Alice,2025-02-22,2025-02-23,UI bug on the login page
+ED0083,Issue 83,In Progress,High,Alice,2025-04-27,,Need to update the FAQ section
+FD0084,Issue 84,Open,High,Bob,2025-05-01,,Error when generating PDF reports
+GD0085,Issue 85,Closed,High,David,2025-02-10,2025-02-20,Crash on specific mobile devices
+HD0086,Issue 86,Open,High,David,2025-01-04,,API endpoint failure
+ID0087,Issue 87,Closed,Low,Charlie,2025-04-06,2025-04-09,New feature request for advanced filters
+JD0088,Issue 88,Closed,High,Eve,2025-02-22,2025-02-26,Feature request to integrate with social media
+KD0089,Issue 89,In Progress,High,Charlie,2025-03-20,,Missing translation in the app
+LD0090,Issue 90,Closed,High,David,2025-01-05,2025-01-14,Feature request for new dashboard
+MD0091,Issue 91,Open,Low,Charlie,2025-04-10,,UI issue with the sidebar layout
+ND0092,Issue 92,Closed,High,Alice,2025-02-04,2025-02-08,Missing data in the analytics report
+OD0093,Issue 93,Closed,Medium,Alice,2025-01-08,2025-01-10,Feature request for dark mode
+PD0094,Issue 94,In Progress,Medium,Eve,2025-02-06,,Missing data in the analytics report
+QD0095,Issue 95,Closed,Medium,Charlie,2025-04-02,2025-04-03,Need to update the FAQ section
+RD0096,Issue 96,Open,Low,David,2025-02-17,,API endpoint failure
+SD0097,Issue 97,Open,Low,Charlie,2025-04-13,,Bug in checkout process
+TD0098,Issue 98,Open,High,David,2025-02-05,,Crash when submitting a form
+UD0099,Issue 99,In Progress,High,Charlie,2025-02-11,,Slow page load times
+VD0100,Issue 100,Closed,High,Charlie,2025-01-19,2025-01-20,New feature request for advanced filters
